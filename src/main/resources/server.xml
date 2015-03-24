@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<!-- 微博 -->
+	<server name="test" host="192.168.1.102" user="root" passwd="123456" port="22" />
+</configuration>
